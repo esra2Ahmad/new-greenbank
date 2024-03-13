@@ -1,0 +1,5 @@
+   className={` h-0 overflow-hidden ${
+          props.active === props.index
+            ? " transition-all duration-75 ease-[cubic-bezier(0,1,0,1)] "
+            : ""
+        }`}
