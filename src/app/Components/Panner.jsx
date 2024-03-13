@@ -69,7 +69,7 @@ const Panner = () => {
         <Image src="/images/dora(1).png" width={10} height={10} alt="star" className=" w-6 h-6 relative top-[100px] left-[1000px]"/>
       </div>
 
-      <div className="bg-green w-[562px] h-[562px] rounded-full relative left-[125px] ">
+      <div className="bg-green w-[562px] h-[532px] rounded-full relative left-[125px] ">
         <div className="w-[551px] h-[349px] rotate-[15deg] relative left-[-260px] top-[40px] border-[2px] backdrop-blur-xl bg-white/25     border-gray  rounded-[18px]  shadow  drop-shadow-md ">
           <div className=" w-[461px] h-[274px mt-[39px] mx-[37px] absloute bg-transparent">
            <div className=" flex  justify-between">

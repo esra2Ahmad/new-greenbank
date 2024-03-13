@@ -14,8 +14,9 @@ import Footer from "./Components/Footer";
 const page = () => {
   return (
     <div className=" h-full w-full  bg-blackbg overflow-hidden ">
-      <div  className=" w-[1440px] h-full relative  bg-[url('/images/dora(1).svg')]  ">
+      <div  className=" w-[1440px] h-[5000px] relative  bg-[url('/images/dora(1).svg')]  ">
         <Navbar />
+       
         <Panner />
         <About />
         <LogoSlider />
@@ -25,7 +26,7 @@ const page = () => {
         <Testimonial />
         <FAQ/>
         <CTA/>
-        <Footer/>
+        <Footer/>n
       </div>
     </div>
   );

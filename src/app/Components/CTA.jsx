@@ -10,7 +10,7 @@ const CTA = () => {
             <p className=' font-M PLUS 1 text-gray  text-[18px] mt-[12px]'>Easy to use mobile app that support on android and ios.</p>
         <div className='flex  justify-between w-[349px] h-[64px] mt-10'>
             <div className='w-[154px] h-[64px] rounded-[16px] bg-gray2'>
-               <Link href="https://www.apple.com"> <Image alt="APPStore" width={122} height={32} src="/images/app.png " className='mt-[15px] ml-[11px]'/></Link>
+               <Link href="https://www.apple.com/"> <Image alt="APPStore" width={122} height={32} src="/images/app.png " className='mt-[15px] ml-[11px]'/></Link>
                 
             </div>
             <div className='w-[154px] h-[64px] rounded-[16px] bg-gray2'>
